@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   per file.
 - Ubuntu 22.04 used in continuous integration workflows.
 - Python 3.11 used in continuous integration workflows.
+- Python 3.12 used in continuous integration workflows.
 
 ### Changed
 
